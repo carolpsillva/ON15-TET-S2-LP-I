@@ -1,0 +1,13 @@
+MINECRAFT - FASE 13
+1. VIRE À DIREITA
+2.REPETIR POR 7 VEZES
+- colocar trilho
+- avançar
+3. VIRE À DIREITA
+4. AVANCE
+5.VIRE À DIREITA
+6. AVANCE
+7. VIRE À ESQUERDA
+8. REPETIR POR 5 VEZES
+- colocar trilho
+- avançar
